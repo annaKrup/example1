@@ -1,0 +1,13 @@
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\флешка  18 06 2015\прораммирование\mvc project\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\EF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\EF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
