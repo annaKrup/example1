@@ -18,7 +18,7 @@ namespace ConsoleApplication1
 
                 // добавляем их в бд
                 db.Users.Add(user1);
-                db.Users.Add(user2);
+                //db.Users.Add(user2);
                 db.SaveChanges();
                 Console.WriteLine("Объекты успешно сохранены");
 
